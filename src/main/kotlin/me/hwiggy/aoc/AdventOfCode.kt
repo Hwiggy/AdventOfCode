@@ -16,7 +16,7 @@ object AdventOfCode {
         val token = args[0]
         println("Starting the Advent of Code!")
         listOf(
-           Year2015(),
+           // Year2015(),
            Year2020()
         ).forEach { bench({ it.evaluate(token) }, { println("\tTotal Time: $it") }) }
     }

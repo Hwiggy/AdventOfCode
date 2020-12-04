@@ -6,6 +6,7 @@ class Year2020 : Year(2020) {
     override val days = listOf(
         Day1(),
         Day2(),
-        Day3()
+        Day3(),
+        Day4()
     )
 }
