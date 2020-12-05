@@ -1,6 +1,5 @@
 package me.hwiggy.aoc
 
-import me.hwiggy.aoc.y2015.Year2015
 import me.hwiggy.aoc.y2020.Year2020
 import java.nio.file.Files
 import java.nio.file.Path
